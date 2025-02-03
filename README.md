@@ -1,16 +1,9 @@
 ## Clone Tab News
 
+- Esse projeto é um forma de aprendizado, tendo como copia o site do <a link="https://www.tabnews.com.br/" target="_blank">Tab News</a>
+  
 
-- Esse projeto é um forma de aprendizado, tendo como copia o site do Tab News.
-<a link="https://www.tabnews.com.br/" target="_blank">
-    <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="site do tab news" >
-</a>
-
-
-- Esse projeto tem como base o curso.dev.
-<a link="https://curso.dev/"  target="_blank">
-    <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="site do tab news" >
-</a>
+- Esse projeto tem como base o <a link="https://curso.dev/"  target="_blank">curso.dev</a>
 
 </br>
 </br>
@@ -24,5 +17,3 @@
     <img align="center" alt="redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
     <img align="center" alt="git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
 </div>
-
-
